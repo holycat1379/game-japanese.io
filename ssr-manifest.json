@@ -1,0 +1,1438 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "locales/ar.yml": [],
+  "locales/de.yml": [],
+  "locales/en.yml": [],
+  "locales/es.yml": [],
+  "locales/fr.yml": [],
+  "locales/id.yml": [],
+  "locales/it.yml": [],
+  "locales/ja.yml": [],
+  "locales/ko.yml": [],
+  "locales/pl.yml": [],
+  "locales/pt-BR.yml": [],
+  "locales/ru.yml": [],
+  "locales/tr.yml": [],
+  "locales/vi.yml": [],
+  "locales/zh-CN.yml": [],
+  "node_modules/.pnpm/@intlify+shared@9.1.10/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+message-resolver@9.1.10/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+runtime@9.1.10/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+message-compiler@9.1.10/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+devtools-if@9.1.10/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+core-base@9.1.10/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+shared@3.2.37/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+reactivity@3.2.37/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.37/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.37/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/.pnpm/vue-i18n@9.1.10_vue@3.2.37/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [],
+  "src/modules/i18n.ts": [],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/localforage@1.10.0/node_modules/localforage/dist/localforage.js?commonjs-module": [],
+  "node_modules/.pnpm/localforage@1.10.0/node_modules/localforage/dist/localforage.js": [],
+  "src/modules/localforage.ts": [],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
+  "src/modules/nprogress.ts": [],
+  "node_modules/.pnpm/vue-demi@0.13.1_vue@3.2.37/node_modules/vue-demi/lib/index.mjs": [],
+  "node_modules/.pnpm/pinia@2.0.14_vcmyupim4cga7k7f5hngmth5py/node_modules/pinia/dist/pinia.esm-browser.js": [],
+  "node_modules/.pnpm/pinia-plugin-persistedstate@2.3.0_pinia@2.0.14/node_modules/pinia-plugin-persistedstate/dist/chunk-54L43XJA.mjs": [],
+  "node_modules/.pnpm/pinia-plugin-persistedstate@2.3.0_pinia@2.0.14/node_modules/pinia-plugin-persistedstate/dist/index.mjs": [],
+  "src/modules/pinia.ts": [],
+  "vite/preload-helper": [],
+  "src/modules/pwa.ts": [],
+  "node_modules/.pnpm/vue-router@4.0.16_vue@3.2.37/node_modules/vue-router/dist/vue-router.esm-bundler.js": [],
+  "node_modules/.pnpm/@vueuse+head@0.7.6_vue@3.2.37/node_modules/@vueuse/head/dist/index.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.1_ah2svnd4q4evbmcsekycrwsdcm/node_modules/vite-ssg/dist/chunks/state.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.1_ah2svnd4q4evbmcsekycrwsdcm/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.1_ah2svnd4q4evbmcsekycrwsdcm/node_modules/vite-ssg/dist/index.mjs": [],
+  "plugin-vue:export-helper": [],
+  "src/layouts/default.vue": [],
+  "../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "node_modules/.pnpm/@vueuse+shared@8.6.0_vue@3.2.37/node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+core@8.6.0_vue@3.2.37/node_modules/@vueuse/core/index.mjs": [],
+  "src/composables/dark.ts": [],
+  "src/App.vue": [],
+  "node_modules/.pnpm/seemly@0.3.6/node_modules/seemly/es/color/colors.js": [],
+  "node_modules/.pnpm/seemly@0.3.6/node_modules/seemly/es/color/index.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/naive/warn.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/create-injection-key.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/resolve-slot.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/css/format-length.js": [],
+  "node_modules/.pnpm/css-render@0.15.11/node_modules/css-render/esm/parse.js": [],
+  "node_modules/.pnpm/css-render@0.15.11/node_modules/css-render/esm/utils.js": [],
+  "node_modules/.pnpm/css-render@0.15.11/node_modules/css-render/esm/render.js": [],
+  "node_modules/.pnpm/@emotion+hash@0.8.0/node_modules/@emotion/hash/dist/hash.browser.esm.js": [],
+  "node_modules/.pnpm/css-render@0.15.11/node_modules/css-render/esm/mount.js": [],
+  "node_modules/.pnpm/css-render@0.15.11/node_modules/css-render/esm/c.js": [],
+  "node_modules/.pnpm/css-render@0.15.11/node_modules/css-render/esm/CssRender.js": [],
+  "node_modules/.pnpm/css-render@0.15.11/node_modules/css-render/esm/exists.js": [],
+  "node_modules/.pnpm/@css-render+plugin-bem@0.15.11_css-render@0.15.11/node_modules/@css-render/plugin-bem/esm/index.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/cssr/index.js": [],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/use-memo.js": [],
+  "node_modules/.pnpm/@css-render+vue3-ssr@0.15.11_vue@3.2.37/node_modules/@css-render/vue3-ssr/esm/index.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_freeGlobal.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_root.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_Symbol.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getRawTag.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_objectToString.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseGetTag.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isObjectLike.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isArray.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isObject.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/identity.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isFunction.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_coreJsData.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_isMasked.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_toSource.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseIsNative.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getValue.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getNative.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseCreate.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_apply.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_copyArray.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_shortOut.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/constant.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_defineProperty.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseSetToString.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_setToString.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_isIndex.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseAssignValue.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/eq.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_assignValue.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_copyObject.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_overRest.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseRest.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isLength.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isArrayLike.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_isIterateeCall.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_createAssigner.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_isPrototype.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseTimes.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseIsArguments.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isArguments.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/stubFalse.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isBuffer.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseIsTypedArray.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseUnary.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_nodeUtil.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isTypedArray.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_arrayLikeKeys.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_overArg.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_nativeKeysIn.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseKeysIn.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/keysIn.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_nativeCreate.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_hashClear.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_hashDelete.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_hashGet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_hashHas.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_hashSet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_Hash.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_listCacheClear.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_assocIndexOf.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_listCacheDelete.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_listCacheGet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_listCacheHas.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_listCacheSet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_ListCache.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_Map.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_mapCacheClear.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_isKeyable.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getMapData.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_mapCacheDelete.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_mapCacheGet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_mapCacheHas.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_mapCacheSet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_MapCache.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getPrototype.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isPlainObject.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_stackClear.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_stackDelete.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_stackGet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_stackHas.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_stackSet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_Stack.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_cloneBuffer.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_Uint8Array.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_cloneArrayBuffer.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_cloneTypedArray.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_initCloneObject.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_createBaseFor.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseFor.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_assignMergeValue.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isArrayLikeObject.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_safeGet.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/toPlainObject.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseMergeDeep.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseMerge.js": [],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/merge.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_styles/common/_common.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_styles/global/index.cssr.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/config-provider/src/context.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_mixins/common.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_mixins/use-theme.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_mixins/use-config.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_mixins/use-style.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_mixins/use-css-vars-class.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_mixins/use-rtl.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_styles/common/light.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/divider/styles/light.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/divider/src/styles/index.cssr.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/divider/src/Divider.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/legacy-grid/src/styles/index.cssr.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/legacy-grid/src/Row.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/legacy-grid/src/Col.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/statistic/styles/light.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/statistic/src/styles/index.cssr.js": [],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/statistic/src/Statistic.js": [],
+  "src/store/lessons.ts": [],
+  "src/assets/lessonJson.json": [],
+  "src/pages/index.vue?vue&type=style&index=0&lang.css": [],
+  "src/pages/index.vue": [],
+  "../../../@vite-plugin-pages/generated-pages?id=~pages": [],
+  "node_modules/.pnpm/@unocss+reset@0.39.0/node_modules/@unocss/reset/tailwind.css": [],
+  "src/styles/main.css": [],
+  "../../../__uno.css": [],
+  "src/main.ts": [],
+  "index.html": [],
+  "assets/app.39b53bbe.js-unocss-hash.css": [],
+  "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
+    "/test-game-japanese.io/assets/virtual_pwa-register.296ba1e3.js"
+  ],
+  "../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/test-game-japanese.io/assets/virtual_pwa-register.296ba1e3.js"
+  ],
+  "src/layouts/404.vue": [
+    "/test-game-japanese.io/assets/404.48bc66d3.js"
+  ],
+  "src/components/DarkMode.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/test-game-japanese.io/assets/home.b59bcc38.js",
+    "/test-game-japanese.io/assets/home.65438a48.css"
+  ],
+  "src/components/DarkMode.vue": [
+    "/test-game-japanese.io/assets/home.b59bcc38.js",
+    "/test-game-japanese.io/assets/home.65438a48.css"
+  ],
+  "src/layouts/home.vue": [
+    "/test-game-japanese.io/assets/home.b59bcc38.js",
+    "/test-game-japanese.io/assets/home.65438a48.css"
+  ],
+  "src/pages/about.md?vue&type=style&index=0&lang.css": [
+    "/test-game-japanese.io/assets/about.9f4d5474.js",
+    "/test-game-japanese.io/assets/about.4260db25.css"
+  ],
+  "src/pages/about.md": [
+    "/test-game-japanese.io/assets/about.9f4d5474.js",
+    "/test-game-japanese.io/assets/about.4260db25.css"
+  ],
+  "../../../@vite-plugin-pages/route-block": [
+    "/test-game-japanese.io/assets/route-block.89f12ae7.js"
+  ],
+  "src/pages/README.md?vue&type=style&index=0&lang.css": [
+    "/test-game-japanese.io/assets/README.bb95feb1.js",
+    "/test-game-japanese.io/assets/about.4260db25.css"
+  ],
+  "src/pages/README.md": [
+    "/test-game-japanese.io/assets/README.bb95feb1.js",
+    "/test-game-japanese.io/assets/about.4260db25.css"
+  ],
+  "node_modules/.pnpm/seemly@0.3.6/node_modules/seemly/es/animation/next-frame-once.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/seemly@0.3.6/node_modules/seemly/es/dom/happens-in.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/omit.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/create-ref-setter.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/merge-handlers.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/env/is-jsdom.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/on-fonts-ready.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/use-merged-state.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/use-compitable.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/select-menu/src/interface.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/composable/use-adjusted-to.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/binder/src/utils.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/binder/src/Binder.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/binder/src/Target.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vdirs@0.1.8_vue@3.2.37/node_modules/vdirs/es/mousemoveoutside.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/shared/cssr.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/shared/finweck-tree.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/binder/src/get-placement-style.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/binder/src/Follower.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/virtual-list/src/config.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/virtual-list/src/VirtualList.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/composable/use-resize.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_WeakMap.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_nativeKeys.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseKeys.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/keys.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_isKey.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/memoize.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_memoizeCapped.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_stringToPath.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_castPath.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_toKey.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseGet.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/get.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_arrayPush.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_arrayFilter.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/stubArray.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getSymbols.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseGetAllKeys.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getAllKeys.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_DataView.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_Promise.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_Set.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getTag.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_setCacheAdd.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_setCacheHas.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_SetCache.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_arraySome.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_cacheHas.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_equalArrays.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_mapToArray.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_setToArray.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_equalByTag.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_equalObjects.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseIsEqualDeep.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseIsEqual.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseIsMatch.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_isStrictComparable.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_getMatchData.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_matchesStrictComparable.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseMatches.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseHasIn.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_hasPath.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/hasIn.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseMatchesProperty.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseProperty.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_basePropertyDeep.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/property.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseIteratee.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseForOwn.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_createBaseEach.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseEach.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseMap.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/map.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icons/Checkmark.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icons/Empty.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/focus-detector/src/FocusDetector.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/treemate@0.3.11/node_modules/treemate/es/utils.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/treemate@0.3.11/node_modules/treemate/es/check.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/treemate@0.3.11/node_modules/treemate/es/path.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/treemate@0.3.11/node_modules/treemate/es/move.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/treemate@0.3.11/node_modules/treemate/es/flatten.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/treemate@0.3.11/node_modules/treemate/es/contains.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/treemate@0.3.11/node_modules/treemate/es/create.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/empty/styles/_common.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/empty/styles/light.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/empty/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/empty/src/Empty.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/select-menu/styles/_common.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/select-menu/styles/light.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/select-menu/src/SelectOption.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/select-menu/src/SelectGroupHeader.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/select-menu/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/select-menu/src/SelectMenu.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popover/styles/_common.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popover/styles/light.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popover/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popover/src/PopoverBody.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popover/src/Popover.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/select/src/utils.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popselect/styles/light.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popselect/src/interface.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popselect/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popselect/src/PopselectPanel.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popselect/src/Popselect.js": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "src/components/Options.vue": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "src/pages/recite/[id].vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "src/pages/recite/[id].vue": [
+    "/test-game-japanese.io/assets/_id_.717631b2.js",
+    "/test-game-japanese.io/assets/_id_.2ee3a89f.css"
+  ],
+  "node_modules/.pnpm/seemly@0.3.6/node_modules/seemly/es/dom/get-precise-event-target.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/seemly@0.3.6/node_modules/seemly/es/css/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/seemly@0.3.6/node_modules/seemly/es/misc/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/keep.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/flatten.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/call.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/keysOf.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/render.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/get-first-slot-vnode.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/vue/wrapper.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/css/color-to-class.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/cssr/create-key.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/env/is-browser.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/event/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/use-false-until-truthy.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/utils.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/evtd@0.2.4/node_modules/evtd/es/utils.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/evtd@0.2.4/node_modules/evtd/es/traps.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/evtd@0.2.4/node_modules/evtd/es/delegate.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/use-click-position.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/use-clicked.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/life-cycle/use-is-mounted.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vooks@0.2.12_vue@3.2.37/node_modules/vooks/es/use-is-ios.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/modal/src/interface.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/drawer/src/interface.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/popover/src/interface.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/shared/v-node.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vdirs@0.1.8_vue@3.2.37/node_modules/vdirs/es/clickoutside.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vdirs@0.1.8_vue@3.2.37/node_modules/vdirs/es/utils.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vdirs@0.1.8_vue@3.2.37/node_modules/vdirs/es/zindexable/z-index-manager.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vdirs@0.1.8_vue@3.2.37/node_modules/vdirs/es/zindexable/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/shared/warn.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/shared/resolve-to.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/lazy-teleport/src/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/utils/resizeObservers.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/algorithms/hasActiveObservations.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/algorithms/hasSkippedObservations.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/algorithms/deliverResizeLoopError.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/ResizeObserverBoxOptions.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/utils/freeze.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/ResizeObserverSize.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/DOMRectReadOnly.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/utils/element.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/utils/global.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/algorithms/calculateBoxSize.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/ResizeObserverEntry.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/algorithms/calculateDepthForNode.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/algorithms/broadcastActiveObservations.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/algorithms/gatherActiveObservationsAtDepth.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/utils/process.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/utils/queueMicroTask.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/utils/queueResizeObserver.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/utils/scheduler.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/ResizeObservation.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/ResizeObserverDetail.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/ResizeObserverController.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/@juggle+resize-observer@3.4.0/node_modules/@juggle/resize-observer/lib/ResizeObserver.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/resize-observer/src/delegate.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/resize-observer/src/VResizeObserver.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/focus-trap/src/utils.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/vueuc@0.4.49_vue@3.2.37/node_modules/vueuc/es/focus-trap/src/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/composable/use-lock-html-scroll.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/composable/use-is-composing.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/composable/use-reactivated.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_mixins/use-form-item.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/isSymbol.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_arrayMap.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseToString.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/toString.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_baseSlice.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_castSlice.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_hasUnicode.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_asciiToArray.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_unicodeToArray.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_stringToArray.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/_createCaseFirst.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es/upperFirst.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/locales/common/enUS.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/_lib/buildFormatLongFn/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/requiredArgs/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/toDate/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/toInteger/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/defaultOptions/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/startOfUTCWeek/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/_lib/buildLocalizeFn/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/_lib/buildMatchFn/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/_lib/buildMatchPatternFn/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/en-US/_lib/formatDistance/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/en-US/_lib/formatLong/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/en-US/_lib/formatRelative/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/en-US/_lib/localize/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/en-US/_lib/match/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/locale/en-US/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/locales/date/enUS.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/addMilliseconds/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/getTimezoneOffsetInMilliseconds/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/compareAsc/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/isDate/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/isValid/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/subMilliseconds/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/getUTCDayOfYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/startOfUTCISOWeek/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/getUTCISOWeekYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/startOfUTCISOWeekYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/getUTCISOWeek/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/getUTCWeekYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/startOfUTCWeekYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/getUTCWeek/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/addLeadingZeros/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/format/lightFormatters/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/format/formatters/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/format/longFormatters/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/protectedTokens/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/format/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/assign/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/_lib/cloneObject/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/formatDistanceStrict/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/esm/fromUnixTime/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_mixins/use-locale.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icons/replaceable.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icons/Close.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icons/Error.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icons/Info.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icons/Success.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icons/Warning.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icon-switch-transition/src/IconSwitchTransition.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/fade-in-expand-transition/src/FadeInExpandTransition.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icon/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/icon/src/Icon.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/close/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/close/src/Close.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_styles/transitions/icon-switch.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/loading/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/loading/src/Loading.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/scrollbar/styles/light.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_styles/transitions/fade-in.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/scrollbar/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/scrollbar/src/Scrollbar.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_styles/transitions/fade-in-scale-up.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/wave/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_internal/wave/src/Wave.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_styles/transitions/fade-in-width-expand.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/env/browser.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/_utils/color/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/button-group/src/context.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/button/styles/_common.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/button/styles/light.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/button/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/button/src/Button.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/card/styles/_common.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/card/styles/light.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/card/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/card/src/Card.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/cloneObject/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/assign/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/assign/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/cloneObject/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/format/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/isValid/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/isDate/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/requiredArgs/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/requiredArgs/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/isDate/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/toDate/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/toDate/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/isValid/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/subMilliseconds/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/addMilliseconds/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/toInteger/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/toInteger/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/addMilliseconds/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/subMilliseconds/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/format/formatters/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCDayOfYear/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCDayOfYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCISOWeek/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/startOfUTCISOWeek/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/startOfUTCISOWeek/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/startOfUTCISOWeekYear/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCISOWeekYear/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCISOWeekYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/startOfUTCISOWeekYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCISOWeek/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCWeek/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/startOfUTCWeek/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/defaultOptions/index.js?commonjs-exports": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/defaultOptions/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/startOfUTCWeek/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/startOfUTCWeekYear/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCWeekYear/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCWeekYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/startOfUTCWeekYear/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getUTCWeek/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/addLeadingZeros/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/addLeadingZeros/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/format/lightFormatters/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/format/lightFormatters/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/format/formatters/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/format/longFormatters/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/format/longFormatters/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getTimezoneOffsetInMilliseconds/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/getTimezoneOffsetInMilliseconds/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/protectedTokens/index.js?commonjs-exports": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/protectedTokens/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/defaultLocale/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/formatDistance/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/formatDistance/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/formatLong/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/_lib/buildFormatLongFn/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/_lib/buildFormatLongFn/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/formatLong/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/formatRelative/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/formatRelative/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/localize/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/_lib/buildLocalizeFn/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/_lib/buildLocalizeFn/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/localize/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/match/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/_lib/buildMatchFn/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/_lib/buildMatchFn/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "\u0000D:/GameJapanese/code/game-japanese/node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/_lib/buildMatchPatternFn/index.js?commonjs-module": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/_lib/buildMatchPatternFn/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/_lib/match/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/locale/en-US/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/_lib/defaultLocale/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns@2.29.3/node_modules/date-fns/format/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/_lib/tzIntlTimeZoneName/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/_lib/tzTokenizeDate/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/_lib/newDateUTC/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/_lib/tzParseTimezone/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/format/formatters/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/_lib/tzPattern/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/toDate/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/format/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/utcToZonedTime/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/date-fns-tz@1.3.7_date-fns@2.29.3/node_modules/date-fns-tz/esm/formatInTimeZone/index.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/dialog/styles/_common.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/dialog/styles/light.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/dialog/src/dialogProps.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/dialog/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/dialog/src/Dialog.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/dialog/src/context.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/modal/styles/light.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/modal/src/presetProps.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/modal/src/BodyWrapper.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/modal/src/styles/index.cssr.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/modal/src/Modal.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "node_modules/.pnpm/naive-ui@2.33.5_vue@3.2.37/node_modules/naive-ui/es/time/src/Time.js": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "src/util/images.ts": [
+    "/test-game-japanese.io/assets/images.932a2262.js"
+  ],
+  "src/components/Furi.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/test-game-japanese.io/assets/_id_.81c58286.js",
+    "/test-game-japanese.io/assets/_id_.9404670a.css"
+  ],
+  "src/components/Furi.vue": [
+    "/test-game-japanese.io/assets/_id_.81c58286.js",
+    "/test-game-japanese.io/assets/_id_.9404670a.css"
+  ],
+  "src/pages/recite-list/[id].vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/test-game-japanese.io/assets/_id_.81c58286.js",
+    "/test-game-japanese.io/assets/_id_.9404670a.css"
+  ],
+  "src/pages/recite-list/[id].vue": [
+    "/test-game-japanese.io/assets/_id_.81c58286.js",
+    "/test-game-japanese.io/assets/_id_.9404670a.css"
+  ]
+}
