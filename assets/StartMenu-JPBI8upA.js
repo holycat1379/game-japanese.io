@@ -1,0 +1,2 @@
+import{d as s,A as c,o as n,a as r,b as e,p as _,k as p,_ as d}from"./index-hgGKhKni.js";const u=t=>(_("data-v-d92052a1"),t=t(),p(),t),m={class:"start-menu"},i=u(()=>e("h1",null,"Welcome to the Game!",-1)),l=s({__name:"StartMenu",setup(t){const a=c();function o(){a.push("Game")}return(h,f)=>(n(),r("div",m,[i,e("button",{onClick:o}," Start Game ")]))}}),k=d(l,[["__scopeId","data-v-d92052a1"]]);export{k as default};
+//# sourceMappingURL=StartMenu-JPBI8upA.js.map
